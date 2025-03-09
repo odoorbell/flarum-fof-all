@@ -1,7 +1,7 @@
 {
     "name": "odoorbell/flarum-fof-all",
     "description": "All the extensions made by Friends of Flarum are collected for easy one-click installation",
-    "license": "MIT"
+    "license": "MIT",
     "require": {
     "flarum/core": "^1.8",  
     "fof/bbcode-details": "*",
