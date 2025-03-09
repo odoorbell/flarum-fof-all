@@ -30,7 +30,7 @@
     "fof/share-social": "*",
     "fof/sitemap": "*",
     "fof/split": "*",
-    "fof/spamblock": "*",
+    "fof/extension-generator": "*",
     "fof/subscribed": "*",
     "fof/terms": "*",
     "fof/upload": "*",
